@@ -4,9 +4,7 @@
 
 Watch this demo video to see FlipIQ in action! 🚀
 
-[![FlipVision Demo](![image](https://github.com/user-attachments/assets/afe9a8c7-3b3a-493a-9abf-01a2da675092)
-)](https://www.youtube.com/watch?v=Qvx1NjTqfPw)
-
+https://drive.google.com/file/d/19D83m61gtqdWOlJPh5cJsa5Ec-4SRwCJ/view
 
 
 
