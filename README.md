@@ -7,10 +7,10 @@ Watch this demo video to see FlipIQ in action! 🚀
 https://drive.google.com/file/d/19D83m61gtqdWOlJPh5cJsa5Ec-4SRwCJ/view
 
 ## 🎗️Problem Statement:
-Problem Statement:
+### Problem Statement:
 In modern retail environments, automating inventory and product information capture is essential for operational efficiency. The challenge is to develop a vision-based AI system capable of extracting structured product details from packed product images.
 
-Objective:
+### Objective:
 Build a robust AI-powered system that can accurately identify and extract key information from product packaging images, including:
 
 ✅ Brand Name
@@ -23,7 +23,7 @@ Build a robust AI-powered system that can accurately identify and extract key in
 
 ✅ Net Quantity / Weight
 
-Constraints & Considerations:
+### Constraints & Considerations:
 
 The text may appear in various orientations, fonts, and lighting conditions.
 
@@ -33,7 +33,7 @@ The system must handle multiple languages or numeric formats (e.g., "MRP ₹45.0
 
 High precision is required for brand name detection, especially when it overlaps with other promotional content.
 
-Deliverables:
+### Deliverables:
 
 An OCR-based pipeline that localizes and extracts the above details.
 
